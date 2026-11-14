@@ -1,0 +1,215 @@
+{
+  "brand": {
+    "siteTitle": "Mardin Tekstil Sanayicileri Derneği | Üreten Mardin, Büyüyen Türkiye",
+    "siteDescription": "Mezopotamya'nın köklü mirasından küresel tekstil pazarına. Mardin Tekstil Sanayicileri Derneği (MTSD).",
+    "logoDark": "/mtsd/logo-dark.png",
+    "logoLight": "/mtsd/logo-light.png",
+    "phone": "0534 521 11 47",
+    "email": "info@mtsd.org.tr",
+    "address": "OSB mahallesi 24 sok. No.2 Osb idari bina Artuklu/Mardin, Turkey, 47000",
+    "footerDesc": "Mezopotamya'nın köklü ticari mirasını modern sanayi yatırımları ve güçlü üretim kapasitesiyle küresel tekstil pazarına taşıyoruz.",
+    "copyright": "MARDİN TEKSTİL SANAYİCİLERİ DERNEĞİ © 2026 . TÜM HAKLARI SAKLIDIR",
+    "ctaLabel": "ÜYE OL"
+  },
+  "hero": {
+    "titleLine1": "Üreten Mardin,",
+    "titleLine2": "Büyüyen Türkiye",
+    "subtitle": "Mezopotamya'nın köklü mirasından, küresel tekstil pazarına. Modern sanayi yatırımları ve güçlü üretim kapasitesiyle geleceği inşa ediyoruz.",
+    "image": "/mtsd/mardin-hero.webp",
+    "imagePosition": "center top"
+  },
+  "aboutSection": {
+    "eyebrow": "Biz Kimiz",
+    "titleLine1": "Gelenekten geleceğe uzanan",
+    "titleHighlight": "bir üretim köprüsü",
+    "description": "Mardin Tekstil Sanayicileri Derneği, bölgemizin hızla büyüyen tekstil ve hazır giyim sektörüne yön vermek, sanayicilerimiz arasında güç birliği oluşturmak ve Mardin'i uluslararası bir tekstil üssü haline getirmek vizyonuyla kurulmuştur.",
+    "buttonLabel": "Hakkımızda →",
+    "image": "/mtsd/mardin-portrait.jpg",
+    "imagePosition": "center top"
+  },
+  "presidentSection": {
+    "eyebrow": "Başkanımızdan",
+    "nameAndRole": "Aziz BAKAY · Yönetim Kurulu Başkanı",
+    "message": "Medeniyetlerin beşiği, kadim İpek Yolu'nun en önemli ticaret merkezlerinden biri olan Mardin; sahip olduğu bu eşsiz tarihi mirası, bugün modern sanayi yatırımları ve güçlü üretim kapasitesiyle geleceğe taşıyor.",
+    "buttonLabel": "Yönetim Kurulumuz",
+    "image": "/mtsd/page-title-bg.jpg"
+  },
+  "boardSection": {
+    "eyebrow": "Kurumsal Yapı",
+    "title": "Yönetim",
+    "titleHighlight": "kurulumuz",
+    "subtitle": "Bölgemizin üretim gücüne yön veren sanayicilerimizi tek çatı altında buluşturan yönetim kadromuz",
+    "members": [
+      {
+        "slug": "ahmet-azun",
+        "name": "Ahmet AZUN",
+        "role": "Onursal Başkanımız",
+        "bio": "Mardin tekstil sanayisinin gelişimine öncülük eden vizyoner liderliğiyle derneğimizin kurumsal mirasına yön vermektedir.",
+        "image": "/mtsd/board-1.jpeg"
+      },
+      {
+        "slug": "aziz-bakay",
+        "name": "Aziz BAKAY",
+        "role": "Yönetim Kurulu Başkanı",
+        "bio": "Mardin'in üretim gücünü ve 6. Bölge yatırım avantajlarını küresel tekstil pazarlarıyla buluşturan dernek çalışmalarımıza liderlik etmektedir.",
+        "image": "/mtsd/board-2.jpg"
+      },
+      {
+        "slug": "bayram-karadeniz",
+        "name": "Bayram KARADENİZ",
+        "role": "Yönetim Kurulu Bşk. Yrd.",
+        "bio": "Üyeler arası sektörel iş birliği, B2B organizasyonlar ve bölgesel istihdamın artırılması süreçlerini koordine etmektedir.",
+        "image": "/mtsd/board-3.jpg"
+      },
+      {
+        "slug": "muhammed-taha-duyan",
+        "name": "Muhammed Taha DUYAN",
+        "role": "Yönetim Kurulu Bşk. Yrd.",
+        "bio": "Yenilikçi üretim teknolojileri, dijital dönüşüm ve ihracat odaklı büyüme projelerinde aktif rol almaktadır.",
+        "image": "/mtsd/board-4.jpeg"
+      },
+      {
+        "slug": "mehmet-can-kezer",
+        "name": "Mehmet Can KEZER",
+        "role": "Yönetim Kurulu Genel Sekreteri",
+        "bio": "Dernek tüzüğü, resmi kurumlarla koordinasyon, üyelik kabul ve idari süreçlerin yürütülmesinden sorumludur.",
+        "image": "/mtsd/board-5.jpeg"
+      },
+      {
+        "slug": "ramazan-taskan",
+        "name": "Ramazan TAŞKAN",
+        "role": "Yönetim Kurulu Saymanı",
+        "bio": "Derneğin mali planlama, bütçe yönetimi ve sürdürülebilir kurumsal kaynak süreçlerini yönetmektedir.",
+        "image": "/mtsd/board-6.jpeg"
+      }
+    ]
+  },
+  "missionVision": {
+    "eyebrow": "Hedeflerimiz",
+    "title": "Misyonumuz &",
+    "titleHighlight": "vizyonumuz",
+    "subtitle": "6. Bölge yatırım teşviklerini yüksek katma değerli üretime ve küresel rekabet gücüne dönüştürüyoruz",
+    "mission": {
+      "eyebrow": "Sürdürülebilir Kalkınma",
+      "title": "Misyonumuz",
+      "description": "Üyelerimizin küresel pazarlardaki rekabet gücünü artırmak, bölgesel istihdama katkı sağlamak ve 6. Bölge teşviklerini katma değerli üretime dönüştürmek.",
+      "image": "/mtsd/mardin-hero.webp",
+      "imagePosition": "center top"
+    },
+    "vision": {
+      "eyebrow": "Küresel Üretim Üssü",
+      "title": "Vizyonumuz",
+      "description": "Mardin'i yalnızca Türkiye'nin değil, Orta Doğu ve Avrupa pazarlarının da en yenilikçi, çevreci ve lider Tekstil, Hazır Giyim ve Tasarım üssü haline getirmek.",
+      "image": "/mtsd/iletisim-bg.jpg",
+      "imagePosition": "center center"
+    }
+  },
+  "statsSection": {
+    "eyebrow": "Gücümüzü Üretimden Alıyoruz",
+    "title": "Rakamlarla",
+    "titleHighlight": "sektörümüz",
+    "items": [
+      {
+        "title": "Aktif Üretim Tesisi",
+        "desc": "Mardin OSB ve çevre sanayi bölgelerinde yüksek kapasiteli tekstil ve hazır giyim tesisleri.",
+        "value": "6. Bölge"
+      },
+      {
+        "title": "Sağlanan İstihdam",
+        "desc": "Bölgesel kalkınmaya sürdürülebilir katkı sağlayan nitelikli genç ve kadın istihdamı.",
+        "value": "Güçlü Ağ"
+      },
+      {
+        "title": "İhracat Odaklı Üretim",
+        "desc": "Orta Doğu ve Avrupa pazarlarına yönelik yüksek katma değerli fason ve marka üretimi.",
+        "value": "Global"
+      },
+      {
+        "title": "Yeşil Mutabakat & AR-GE",
+        "desc": "Yenilikçi üretim teknolojileri ve çevre dostu sanayi standartlarına tam uyum.",
+        "value": "2026"
+      }
+    ]
+  },
+  "membershipSection": {
+    "eyebrow": "Adımlar",
+    "title": "Üyelik",
+    "titleHighlight": "başvuru süreci",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Başvuru Formu",
+        "desc": "Üyelik ön başvuru formunu eksiksiz bir şekilde doldurun.",
+        "image": "/mtsd/mardin-hero.webp"
+      },
+      {
+        "step": "02",
+        "title": "Ön Değerlendirme",
+        "desc": "Başvurunuz, yönetim kurulumuz tarafından dernek tüzüğüne uygunluk açısından incelenir.",
+        "image": "/mtsd/page-title-bg.jpg"
+      },
+      {
+        "step": "03",
+        "title": "Evrak ve Kayıt",
+        "desc": "Onaylanan başvurular için gerekli resmi evraklar tamamlanır ve resmi kayıt açılır.",
+        "image": "/mtsd/iletisim-bg.jpg"
+      },
+      {
+        "step": "04",
+        "title": "Ağımıza Katılın",
+        "desc": "Artık derneğimizin bir parçasısınız. Etkinlikler, fuarlar ve sektörel işbirliklerinden faydalanmaya başlayın.",
+        "image": "/mtsd/mardin-portrait.jpg"
+      }
+    ]
+  },
+  "newsSection": {
+    "eyebrow": "Haberler & Duyurular",
+    "title": "MTSD",
+    "titleHighlight": "blog & bilgilendirme",
+    "articles": [
+      {
+        "slug": "ramazan-ayinin-manevi-ikliminde-cesitli-yardimlarda-bulunmanin-mutlulugunu-yasadik",
+        "title": "Ramazan ayının manevi ikliminde, çeşitli yardımlarda bulunmanın mutluluğunu yaşadık.",
+        "excerpt": "Mardin Tekstil Sanayicileri Derneği olarak Ramazan ayının paylaşma ve dayanışma ruhuyla ihtiyaç sahiplerinin yanında yer aldık.",
+        "content": "Ramazan ayının manevi ikliminde, dernek üyelerimizin katkılarıyla gerçekleştirdiğimiz sosyal sorumluluk ve yardım çalışmalarıyla bölgemizdeki ailelerle dayanışma içinde olmanın mutluluğunu yaşadık.",
+        "category": "Genel",
+        "date": "26 Şubat 2026",
+        "image": "/mtsd/news-ramazan.jpg"
+      },
+      {
+        "slug": "azunlar-enerjinin-fuar-standini-ziyarette-bulunduk",
+        "title": "Azunlar Enerji’nin fuar standını ziyarette bulunduk",
+        "excerpt": "Sektör paydaşlarımızla iş birliklerini güçlendirmek adına Azunlar Enerji'nin fuar standını ziyaret ederek verimli görüşmeler gerçekleştirdik.",
+        "content": "Mardin Tekstil Sanayicileri Derneği yönetimi olarak enerji ve sanayi alanındaki iş birliklerini değerlendirmek üzere Azunlar Enerji'nin fuar standını ziyaret ettik.",
+        "category": "Genel",
+        "date": "26 Şubat 2026",
+        "image": "/mtsd/news-azunlar.jpeg"
+      }
+    ]
+  },
+  "aboutPage": {
+    "heroEyebrow": "Kurumsal",
+    "heroTitle": "Hakkımızda —",
+    "heroHighlight": "MTSD",
+    "heroLead": "Gelenekten geleceğe uzanan bir üretim köprüsü. Mardin'i uluslararası bir tekstil ve hazır giyim üssü haline getirmek vizyonuyla çalışıyoruz.",
+    "bodyEyebrow": "Sektörel Güç Birliği ve Vizyoner Hedefler",
+    "bodyTitle": "Mardin'de üretilen her ilmeği",
+    "bodyHighlight": "dünyaya taşıyoruz",
+    "paragraph1": "Kuruluşumuzdan bu yana temel önceliğimiz; üyelerimiz arasında güçlü bir sinerji yaratarak Mardin'de üretilen her bir ilmeğin dünya pazarlarında hak ettiği değeri bulmasını sağlamaktır. Devletimizin sunduğu 6. Bölge Yatırım Teşvikleri ile taçlanan bu yatırım ikliminde, derneğimiz yatırımcılar ile kamu kurumları arasında stratejik bir köprü görevi üstlenmektedir.",
+    "paragraph2": "Sadece niceliksel büyümeyi değil; sürdürülebilir üretim, dijital dönüşüm ve yüksek katma değerli tasarım odaklı bir gelişmeyi hedefliyoruz. Eğitimden fuar organizasyonlarına, Ar-Ge çalışmalarından ihracat desteklerine kadar her alanda rehberlik ediyoruz."
+  },
+  "contactSection": {
+    "eyebrow": "Mardin'de Birlikte Üretelim",
+    "title": "Üretim gücümüze",
+    "titleHighlight": "ortak olun",
+    "subtitle": "6. Bölge teşviklerinin sunduğu eşsiz avantajlarla Mardin'de güvenli yatırım yapmak, yüksek kapasiteli fason üretim ağımızı değerlendirmek veya derneğimize üye olmak için bizimle iletişime geçin.",
+    "image": "/mtsd/iletisim-bg.jpg",
+    "topics": [
+      "Üyelik Başvurusu",
+      "6. Bölge Yatırım & Teşvik",
+      "B2B & Fason Üretim Ağı",
+      "Fuar & Etkinlikler",
+      "Genel İletişim"
+    ]
+  }
+}
