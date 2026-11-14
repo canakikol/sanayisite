@@ -85,14 +85,14 @@ export default function SiteEffects() {
 
       const getPerView = () => {
         const w = window.innerWidth;
-        if (mode === "mobile") return w <= 768 ? 1 : count;
+        if (mode === "mobile") return w <= 980 ? 1 : count;
         if (isFocus) return w <= 768 ? 1 : w <= 1160 ? 2 : 3;
-        if (isWaves) return w <= 768 ? 1 : w <= 1024 ? 2 : 3;
+        if (isWaves) return w <= 980 ? 1 : 3;
         return 1;
       };
 
       const isActive = () => {
-        if (mode === "mobile") return window.innerWidth <= 768;
+        if (mode === "mobile") return window.innerWidth <= 980;
         return true;
       };
 
